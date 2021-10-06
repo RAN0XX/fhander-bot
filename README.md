@@ -1,2 +1,0 @@
-# fhander-bot
-Mantap
